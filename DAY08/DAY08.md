@@ -54,4 +54,4 @@ Today wasn't about building something completely new—it was about refining wha
 
 ---
 
-**Oracle ✨ | One day. One commit. One step closer.**
+**✨ Oracle | One day. One commit. One step closer.**
